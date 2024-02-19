@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_xzUvsM98Ee6wz-7S3ok6yA" label="advanceTrainingGit" description="Proyecto trabajo Git-Talend" language="java" technicalLabel="ADVANCETRAININGGIT" author="_xzUvsc98Ee6wz-7S3ok6yA" productVersion="Talend Cloud API Services Platform-8.0.1.20240118_0425-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/smoreno2024/advancedTrainingGit&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_x0E9oM98Ee6wz-7S3ok6yA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_xzUvsc98Ee6wz-7S3ok6yA" login="morenoramirez.s@trial51320.us.talend.com" firstName="Sandra Patricia" lastName="Moreno Ramírez" type="DQ"/>
+</xmi:XMI>
